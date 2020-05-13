@@ -1,0 +1,32 @@
+body{
+    background:#4B4B4D;
+   
+  }
+  
+  .menu{
+    
+    background-color:white;
+    
+  }
+  a{
+    color: black;
+    text-decoration:none;
+  }
+  .menu li{
+    list-style:none;
+    
+    
+  }
+  
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  .site-subtitle,.site-title{
+   color: whitesmoke; 
+   text-align:center;
+  
+    
+  }
